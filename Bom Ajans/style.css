@@ -131,6 +131,7 @@ margin-top: 20px;
     .text2 p{
         font-size: 12px;
         font-weight: 600;
+        padding-right: 30px;
     }
 
     .text2 p span{
@@ -298,5 +299,7 @@ margin-top: 20px;
     }
     .text2 p{
        text-align: center;
+       padding-right: 0px;
     }
+    
 }
